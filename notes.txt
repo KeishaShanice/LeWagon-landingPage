@@ -1,0 +1,8 @@
+// Google Font
+<link href="https://fonts.googleapis.com/css2?family=Chivo:wght@300;400;700&family=Overpass:wght@100;300;400;700&display=swap" rel="stylesheet">
+
+font-family: 'Chivo', sans-serif;
+font-family: 'Overpass', sans-serif;
+
+// To make background image centered at each size of website use:
+background-position: center;
